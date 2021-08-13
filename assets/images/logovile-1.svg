@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80.568962mm"
+   height="80.568962mm"
+   viewBox="0 0 80.568963 80.568963"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="logoVile.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient893"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop891" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient865"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop863" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="150.99256"
+     inkscape:cy="151.83889"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid897"
+       originx="-76.132185"
+       originy="-105.23636" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-76.132184,-105.23633)">
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#37b7ff;stroke-width:1.19396;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14"
+       width="79.375"
+       height="79.375"
+       x="76.729164"
+       y="105.83331" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#37b7ff;fill-opacity:1;stroke:#37b7ff;stroke-width:0.264583;stroke-opacity:1"
+       x="84.931396"
+       y="142.32373"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="84.931396"
+         y="142.32373"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:Arial;-inkscape-font-specification:Arial;fill:#37b7ff;fill-opacity:1;stroke:#37b7ff;stroke-width:0.264583;stroke-opacity:1">VILE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:0;font-family:sans-serif;fill:#37b7ff;fill-opacity:1;stroke:#37b7ff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="115.81455"
+       y="168.50067"
+       id="text901"><tspan
+         sodipodi:role="line"
+         id="tspan899"
+         x="115.81455"
+         y="168.50067"
+         style="font-size:4.23333px;line-height:1.25;text-align:center;text-anchor:middle;fill:#37b7ff;fill-opacity:1;stroke:#37b7ff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">L<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+   id="tspan907">IMPIEZA Y MANTENIMIENTO</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="115.81455"
+         y="173.79233"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#37b7ff;fill-opacity:1;stroke:#37b7ff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan905">DE EDIFICIOS Y EMPRESAS</tspan></text>
+  </g>
+</svg>
